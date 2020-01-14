@@ -1,0 +1,90 @@
+.drawer-style {
+  width: 424px;
+  height: 1046px;
+  left: 1016px;
+  top: 0px;
+  background: #000000;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 264px;
+  height: 79px;
+  left: 80px;
+  top: 21px;
+
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+}
+
+#user-button1 {
+  display: block;
+  width: 264px;
+  height: 79px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 44px;
+  text-align: center;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  outline: none;
+  margin-top: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#user-button2 {
+    display: block;
+    width: 264px;
+    height: 79px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    outline: none;
+    margin-top: 30%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #user-button3 {
+    display: block;
+    width: 264px;
+    height: 79px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    outline: none;
+    margin-top: 30%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.close-button {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1;
+  float: right;
+  color: #fff;
+  cursor: pointer;
+  border: none;
+}
+
+.wrapper {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 424px;
+  height: 100%;
+  background: #000000;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
